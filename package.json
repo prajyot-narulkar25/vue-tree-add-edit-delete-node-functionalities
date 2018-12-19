@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "liquor-tree": "^0.2.46",
     "vue": "^2.5.17"
   },
   "devDependencies": {
